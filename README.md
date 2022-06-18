@@ -28,6 +28,7 @@ Head Pose Estimation using Mediapipe and CV - SVM, Random Forest
 ##### 5- Split Our Data
 ##### 6- Train Our Model
 ##### 7- Test and Evaluate
-##### 8- Real Time Testing
-##### 9- Recording Videos
-##### 10- Frames Gathering
+##### 8- Recording Videos
+
+### Test Video
+<video src='output.mp4' autoplay></video>
