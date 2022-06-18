@@ -22,13 +22,25 @@ Head Pose Estimation using Mediapipe and CV - SVM, Random Forest
 
 ### Our Steps ?
 ##### 1- Read Dataset using Mediapipe from jpg files
-##### 2- Read 3 Euler Angles from Mat File in Dataset 
-##### 3- Refine and Prepare Data
+##### 2- Read 3 Euler Angles from Mat File in Dataset (Pitch, Yaw, Roll)
+##### 3- Prepare and Explore Data Features
 ##### 4- Preprocess Data (Normalize)
-##### 5- Split Our Data
-##### 6- Train Our Model
-##### 7- Test and Evaluate
-##### 8- Recording Videos
+##### 5- Split Data
+##### 6- Train Models
+##### 7- Test and Evaluate Models
+##### 8- Test on Videos
+
+### Required libraries
+
+- Numpy
+- Pandas
+- Mediapipe
+- cv2
+- os
+- sklearn
 
 ### Test Video
-<video src='output.mp4' autoplay></video>
+
+https://user-images.githubusercontent.com/44030209/174431141-d1833252-35c8-4d46-9481-be2049844135.mp4
+
+
